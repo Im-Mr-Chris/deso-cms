@@ -15,7 +15,7 @@ const firebaseConfig = {
   storageBucket: "daas-2c7c0.appspot.com",
   messagingSenderId: "113686609589",
   appId: "1:113686609589:web:2ed29eb0f5e92ea49748fc",
-  measurementId: "G-50D3GNTX9F"
+  measurementId: "G-50D3GNTX9F",
 };
 
 // Initialize Firebase
